@@ -1,0 +1,9 @@
+.bg{
+    background-image: url(./img/city-5922313_1920.jpg);
+    background-position: center center;
+}
+
+body{
+    background: #3c95a5;
+    background: linear-gradient(to right, #ffa751, #ffe259);
+}
